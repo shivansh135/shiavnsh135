@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shivansh Mitra 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer and AI enthusiast, always excited to tackle new challenges and innovate in the tech space.
 
@@ -45,7 +45,5 @@ Feel free to reach out if you're interested in working together or just want to 
 
 I'm always on the lookout for enthusiastic collaborators who are passionate about startups and innovation. If you're more focused on building businesses than just working a job, let's connect!
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: [mitrashivansh47@gmail.com}
 
