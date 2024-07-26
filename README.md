@@ -37,7 +37,6 @@ Feel free to reach out if you're interested in working together or just want to 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh135&show_icons=true&locale=en&layout=compact" alt="shivansh135" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh135&show_icons=true&locale=en" alt="shivansh135" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh135&" alt="shivansh135" /></p>
 
